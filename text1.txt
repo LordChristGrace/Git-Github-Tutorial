@@ -1,2 +1,5 @@
 hey there! this is me learning git!
 This is the first 1st change!
+hey there!
+that's great!
+all great!
